@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\bin\Debug\orneksınav1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\bin\Debug\orneksınav1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\bin\Debug\orneksınav1.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\orneksınav1\orneksınav1\obj\Debug\orneksınav1.pdb
